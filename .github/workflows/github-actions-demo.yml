@@ -1,8 +1,4 @@
 name: GitHub Actions Demo
-<details>
-  <summary>Solution</summary>
-  
-```YAML
 on:
   push:
     branches: [ main ]
